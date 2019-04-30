@@ -1,0 +1,10 @@
+20-02-2019 11:38:26 - going to update Minecraft正版启动器.exe using C:/Users/FuCheng's PC/Desktop/tmp/tmpLauncher.tmp
+Launcher is definitely closed.
+Backing up previous version of the launcher...
+Previous version has been backed up as Minecraft正版启动器.exe.backup.
+Installing new version of the launcher...
+Moved C:/Users/FuCheng's PC/Desktop/tmp/tmpLauncher.tmp to Minecraft正版启动器.exe successfully.
+Removing backup file Minecraft正版启动器.exe.backup
+Error 5, going for attempt 2...
+Removed backup Minecraft正版启动器.exe.backup successfully.
+Update succeeded!
