@@ -1,0 +1,17 @@
+print("答题测试")
+print(" ")
+time.sleep(1.5)
+print("问题：瞎蒙一个！！")
+time.sleep(1.5)
+print("A:XXXXXX")
+print("  ")
+print("B:XXXXXX")
+print("  ")
+print("C:XXXXXX")
+time.sleep(1.5)
+answer = input("填写答案：")
+ if answer == a
+  print("蒙对了！！")
+ else
+  print("  ")
+  print("猜错了")
